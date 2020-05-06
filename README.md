@@ -4,18 +4,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Angular Server
 
-Make sure Angular CLI is downloaded and Node.js
-Run `ng serve` from the SpeechAppFrontend folder for a dev server. 
-The default port should be 4200 so it will be running on `http://localhost:4200/`. 
-The app will automatically reload if you change any of the source files.
+Make sure Angular CLI and Node.js are downloaded. Run `ng serve` from the SpeechAppFrontend folder for a dev server. The default port should be 4200 so it will be running on `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Java Server
 
 This project was developed in IntelliJ and run as a Maven project.
 The easist way to load the project into IntelliJ:
-  1. Choose "Open" from the IntelliJ launcher and navigate to the pom.xml file in the backend project.
-  2. Select "Open as project" and the project should load.
-  3. Navigate to src/main/java/com/dialectric/SpeechApplication.java and run this class.
+  1. Choose `Open` from the IntelliJ launcher and navigate to the `pom.xml` file in the backend project.
+  2. Select `Open as project` and the project should load.
+  3. Navigate to `src/main/java/com/dialectric/SpeechApplication.java` and run this class.
 The backend should begin running on localhost port 8080, but make sure this is the case from the terminal.
 
 ## Database Communication
