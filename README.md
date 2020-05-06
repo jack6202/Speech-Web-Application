@@ -21,10 +21,7 @@ The backend should begin running on localhost port 8080, but make sure this is t
 ## Database Communication
 
 The database that the backend connects to is hosted on Google Cloud from the ip address 35.247.82.214.
-Connections are limited to only authorized networks:
-  Add yourself to this list from Cloud Console by navigating to SQL->speech-database->Connections->Authorized networks.
-
-
+Connections are limited to only authorized networks. Add yourself to this list from Cloud Console by navigating to SQL->speech-database->Connections->Authorized networks.
 
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
